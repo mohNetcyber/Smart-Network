@@ -15,8 +15,7 @@ L’architecture repose sur un **design Campus 3-Tiers (Core / Distribution / Ac
 
 ## Schéma global de l’architecture
 
-
-![[network-topology.png]]
+![Topologie](docs/images/network-topology.png)
 
 
 ## 🧩 Description générale
